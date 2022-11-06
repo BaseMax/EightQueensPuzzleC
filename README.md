@@ -1,6 +1,6 @@
 # Eight Queens Puzzle C
 
-A C implementation of the Eight Queens Puzzle.
+A C implementation of the Eight Queens Puzzle, using a backtracking algorithm.
 
 ## Usage
 
